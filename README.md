@@ -2,6 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 
+[![My Skills](https://skillicons.dev/i
+cons?i=arduino,atom,c,cs,cpp,css,discord,flask,github,raspberrypi,unity)](https://skillicons.dev)
 
 <!---
 Racer0815/Racer0815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
