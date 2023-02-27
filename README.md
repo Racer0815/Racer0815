@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Racer0815
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Kotlin
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,atom,c,cs,cpp,discord,flask,github,raspberrypi,unity,html,css&perline=6)](https://skillicons.dev)
 
